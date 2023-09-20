@@ -1,0 +1,1 @@
+<th>{{ $headings }}</th>
